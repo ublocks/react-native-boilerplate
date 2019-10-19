@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="App/Assets/Images/TOM-Legend.png" alt="Logo" width="100%">
+    <img src="https://github.com/ublocks/react-native-boilerplate/blob/master/%40App/Assets/Images/TOM-Legend.png" alt="Logo" width="100%">
 </div>
 
 # TheCodingMachine React Native boilerplate
